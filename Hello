@@ -1,2 +1,4 @@
 print("World Peace and Love")
 print("Hello Bryan, this is Kuang")
+name = "blablabla"
+print(name)
